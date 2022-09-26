@@ -700,4 +700,10 @@ header .icons #menu-bars{
     }
  
 }
+html{
+    font-size: 62.5%;
+    overflow-x: hidden;
+    scroll-padding-top: 5.5rem;
+    scroll-behavior: smooth;
+}
 
